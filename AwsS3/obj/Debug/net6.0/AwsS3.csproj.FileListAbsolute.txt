@@ -1,0 +1,12 @@
+/Users/development/Desktop/Big Projects/FamilyTodoDotnet/familytodo-backend/AwsS3/bin/Debug/net6.0/AwsS3.deps.json
+/Users/development/Desktop/Big Projects/FamilyTodoDotnet/familytodo-backend/AwsS3/bin/Debug/net6.0/AwsS3.dll
+/Users/development/Desktop/Big Projects/FamilyTodoDotnet/familytodo-backend/AwsS3/bin/Debug/net6.0/AwsS3.pdb
+/Users/development/Desktop/Big Projects/FamilyTodoDotnet/familytodo-backend/AwsS3/obj/Debug/net6.0/AwsS3.csproj.AssemblyReference.cache
+/Users/development/Desktop/Big Projects/FamilyTodoDotnet/familytodo-backend/AwsS3/obj/Debug/net6.0/AwsS3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/development/Desktop/Big Projects/FamilyTodoDotnet/familytodo-backend/AwsS3/obj/Debug/net6.0/AwsS3.AssemblyInfoInputs.cache
+/Users/development/Desktop/Big Projects/FamilyTodoDotnet/familytodo-backend/AwsS3/obj/Debug/net6.0/AwsS3.AssemblyInfo.cs
+/Users/development/Desktop/Big Projects/FamilyTodoDotnet/familytodo-backend/AwsS3/obj/Debug/net6.0/AwsS3.csproj.CoreCompileInputs.cache
+/Users/development/Desktop/Big Projects/FamilyTodoDotnet/familytodo-backend/AwsS3/obj/Debug/net6.0/AwsS3.dll
+/Users/development/Desktop/Big Projects/FamilyTodoDotnet/familytodo-backend/AwsS3/obj/Debug/net6.0/refint/AwsS3.dll
+/Users/development/Desktop/Big Projects/FamilyTodoDotnet/familytodo-backend/AwsS3/obj/Debug/net6.0/AwsS3.pdb
+/Users/development/Desktop/Big Projects/FamilyTodoDotnet/familytodo-backend/AwsS3/obj/Debug/net6.0/ref/AwsS3.dll

@@ -1,0 +1,17 @@
+/Users/development/Desktop/Big Projects/FamilyTodoDotnet/familytodo-backend/Infrastructure/bin/Debug/net6.0/Infrastructure.deps.json
+/Users/development/Desktop/Big Projects/FamilyTodoDotnet/familytodo-backend/Infrastructure/bin/Debug/net6.0/Infrastructure.dll
+/Users/development/Desktop/Big Projects/FamilyTodoDotnet/familytodo-backend/Infrastructure/bin/Debug/net6.0/Infrastructure.pdb
+/Users/development/Desktop/Big Projects/FamilyTodoDotnet/familytodo-backend/Infrastructure/bin/Debug/net6.0/Entity.dll
+/Users/development/Desktop/Big Projects/FamilyTodoDotnet/familytodo-backend/Infrastructure/bin/Debug/net6.0/Entity.pdb
+/Users/development/Desktop/Big Projects/FamilyTodoDotnet/familytodo-backend/Infrastructure/obj/Debug/net6.0/Infrastructure.csproj.AssemblyReference.cache
+/Users/development/Desktop/Big Projects/FamilyTodoDotnet/familytodo-backend/Infrastructure/obj/Debug/net6.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/development/Desktop/Big Projects/FamilyTodoDotnet/familytodo-backend/Infrastructure/obj/Debug/net6.0/Infrastructure.AssemblyInfoInputs.cache
+/Users/development/Desktop/Big Projects/FamilyTodoDotnet/familytodo-backend/Infrastructure/obj/Debug/net6.0/Infrastructure.AssemblyInfo.cs
+/Users/development/Desktop/Big Projects/FamilyTodoDotnet/familytodo-backend/Infrastructure/obj/Debug/net6.0/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/development/Desktop/Big Projects/FamilyTodoDotnet/familytodo-backend/Infrastructure/obj/Debug/net6.0/Infrastructure.csproj.CopyComplete
+/Users/development/Desktop/Big Projects/FamilyTodoDotnet/familytodo-backend/Infrastructure/obj/Debug/net6.0/Infrastructure.dll
+/Users/development/Desktop/Big Projects/FamilyTodoDotnet/familytodo-backend/Infrastructure/obj/Debug/net6.0/refint/Infrastructure.dll
+/Users/development/Desktop/Big Projects/FamilyTodoDotnet/familytodo-backend/Infrastructure/obj/Debug/net6.0/Infrastructure.pdb
+/Users/development/Desktop/Big Projects/FamilyTodoDotnet/familytodo-backend/Infrastructure/obj/Debug/net6.0/ref/Infrastructure.dll
+/Users/development/Desktop/Big Projects/FamilyTodoDotnet/familytodo-backend/Infrastructure/bin/Debug/net6.0/Infrastructure.runtimeconfig.json
+/Users/development/Desktop/Big Projects/FamilyTodoDotnet/familytodo-backend/Infrastructure/obj/Debug/net6.0/Infrastructure.genruntimeconfig.cache

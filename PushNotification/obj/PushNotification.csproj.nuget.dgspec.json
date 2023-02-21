@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/development/Desktop/Big Projects/FamilyTodoDotnet/familytodo-backend/PushNotification/PushNotification.csproj": {}
+  },
+  "projects": {
+    "/Users/development/Desktop/Big Projects/FamilyTodoDotnet/familytodo-backend/PushNotification/PushNotification.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/development/Desktop/Big Projects/FamilyTodoDotnet/familytodo-backend/PushNotification/PushNotification.csproj",
+        "projectName": "PushNotification",
+        "projectPath": "/Users/development/Desktop/Big Projects/FamilyTodoDotnet/familytodo-backend/PushNotification/PushNotification.csproj",
+        "packagesPath": "/Users/development/.nuget/packages/",
+        "outputPath": "/Users/development/Desktop/Big Projects/FamilyTodoDotnet/familytodo-backend/PushNotification/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/development/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "CorePush": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

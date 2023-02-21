@@ -1,0 +1,12 @@
+/Users/development/Desktop/Big Projects/FamilyTodoDotnet/familytodo-backend/PushNotification/obj/Debug/net6.0/PushNotification.csproj.AssemblyReference.cache
+/Users/development/Desktop/Big Projects/FamilyTodoDotnet/familytodo-backend/PushNotification/obj/Debug/net6.0/PushNotification.GeneratedMSBuildEditorConfig.editorconfig
+/Users/development/Desktop/Big Projects/FamilyTodoDotnet/familytodo-backend/PushNotification/obj/Debug/net6.0/PushNotification.AssemblyInfoInputs.cache
+/Users/development/Desktop/Big Projects/FamilyTodoDotnet/familytodo-backend/PushNotification/obj/Debug/net6.0/PushNotification.AssemblyInfo.cs
+/Users/development/Desktop/Big Projects/FamilyTodoDotnet/familytodo-backend/PushNotification/obj/Debug/net6.0/PushNotification.csproj.CoreCompileInputs.cache
+/Users/development/Desktop/Big Projects/FamilyTodoDotnet/familytodo-backend/PushNotification/bin/Debug/net6.0/PushNotification.deps.json
+/Users/development/Desktop/Big Projects/FamilyTodoDotnet/familytodo-backend/PushNotification/bin/Debug/net6.0/PushNotification.dll
+/Users/development/Desktop/Big Projects/FamilyTodoDotnet/familytodo-backend/PushNotification/bin/Debug/net6.0/PushNotification.pdb
+/Users/development/Desktop/Big Projects/FamilyTodoDotnet/familytodo-backend/PushNotification/obj/Debug/net6.0/PushNotification.dll
+/Users/development/Desktop/Big Projects/FamilyTodoDotnet/familytodo-backend/PushNotification/obj/Debug/net6.0/refint/PushNotification.dll
+/Users/development/Desktop/Big Projects/FamilyTodoDotnet/familytodo-backend/PushNotification/obj/Debug/net6.0/PushNotification.pdb
+/Users/development/Desktop/Big Projects/FamilyTodoDotnet/familytodo-backend/PushNotification/obj/Debug/net6.0/ref/PushNotification.dll
